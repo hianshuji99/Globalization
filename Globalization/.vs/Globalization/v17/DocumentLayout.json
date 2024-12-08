@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Projects\\Backend Projects\\Globalization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|c:\\my projects\\backend projects\\globalization\\globalization\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|solutionrelative:globalization\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|c:\\my projects\\backend projects\\globalization\\globalization\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|solutionrelative:globalization\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|c:\\my projects\\backend projects\\globalization\\globalization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|solutionrelative:globalization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|c:\\my projects\\backend projects\\globalization\\globalization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E351C62-D062-4551-8F13-77FF2A34F303}|Globalization\\Globalization.csproj|solutionrelative:globalization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\Program.cs",
+              "RelativeDocumentMoniker": "Globalization\\Program.cs",
+              "ToolTip": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\Program.cs",
+              "RelativeToolTip": "Globalization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:09:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\appsettings.json",
+              "RelativeDocumentMoniker": "Globalization\\appsettings.json",
+              "ToolTip": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\appsettings.json",
+              "RelativeToolTip": "Globalization\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T06:58:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "Globalization\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "Globalization\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAD4vz8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:34:15.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Globalization\\appsettings.Development.json",
+              "ToolTip": "C:\\My Projects\\Backend Projects\\Globalization\\Globalization\\appsettings.Development.json",
+              "RelativeToolTip": "Globalization\\appsettings.Development.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T06:34:55.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
